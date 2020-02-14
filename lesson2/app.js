@@ -13,3 +13,7 @@ ctx.lineWidth =5;
 ctx.strokeStyle="blue";
 
 ctx.stroke();
+
+console.log("hi");
+
+
