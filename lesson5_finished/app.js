@@ -16,7 +16,7 @@ function init(){
 	y = height/2;
 	mx = 3;
 	my = 6;
-	return setInterval(draw,10);
+
 }
 //draw circle
 function circle(x,y,r){
@@ -49,4 +49,5 @@ function draw(){
 }
 
 init();
+setInterval(draw,10);
 
